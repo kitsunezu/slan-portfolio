@@ -1,4 +1,4 @@
-# Slan Chong Portfolio Website
+# Slan Portfolio Website
 I make a stuff which are pretty and responsive.
 
 DEMO:https://slan-chong.github.io/snchong-portfolio-main/
@@ -20,6 +20,3 @@ To Start Website:
 `npm start` 
 or
 `yarn start` 
-
-## Authors
-[@Slan Chong](https://twitter.com/Slan_Chong)
